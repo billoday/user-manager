@@ -1,0 +1,8 @@
+# Exclude config.json (sample.json will cover the needs)
+config.json
+.idea
+.idea/*
+/.idea
+.idea/
+venv
+venv/
