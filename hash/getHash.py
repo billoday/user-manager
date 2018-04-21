@@ -6,7 +6,7 @@ import json
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
-# create a file handler
+# create a stream handler
 handler = logging.StreamHandler(stream=sys.stdout)
 handler.setLevel(logging.INFO)
 
