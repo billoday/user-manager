@@ -4,3 +4,5 @@ config.json
 .idea/*
 /.idea
 .idea/
+venv
+venv/
